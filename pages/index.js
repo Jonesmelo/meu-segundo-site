@@ -37,6 +37,11 @@ export default function Home() {
             <h3>Conheça a turma &rarr;</h3>
             <p>Veja o nome dos integrantes</p>
           </a>
+          
+          <a href="https://github.com/Jonesmelo" className="card">
+            <h3>Meus projetos &rarr;</h3>
+            <p>Github</p>
+          </a>
 
           <a
             href="https://us05web.zoom.us/j/9273830676?pwd=djR5SVI5anZxRDVxUTM1Q3BWSGZyZz09"
